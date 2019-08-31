@@ -1,0 +1,34 @@
+Padding to margines wewnętrzny - wchodzi w skład rozmiaru elementu, który padding otacza
+
+Na rozmiar elementy wpływają:
++ rozmiar elementu (zawartość elementu, znacznika)
++ padding elementu (margines wewnętrzny)
++ ramka elementu (border).
+
+Zwykły margines odsuwa element od innych elementów.
+
+-------------------------------
+<DIV> - element blokowy.
+Elementy inline  zajmują tyle miejsca, ile zajmują (np.: oddzielne słowa).
+Ustawiają się jeden obok drugiego tak aby zmieścić to, co mają w środku ("rozpychają się").
+Elementy inline:
+- tekst umieszczony wewnątrz czegoś (np znacznik <a> ..... </a>
+- znacznik <SPAN>
+
+Elementy inline są odporne na takie stylowanie, jakie mają elementy blokowe (np. wymuszanie paddingów, borderów itd).
+
+Elementy inline możemy traktować jako ciąg tekstów.
+
+-------------------------------
+Elemetnty inline-block: atrybut DIV-a display:inline-block;
+nie zajmują całej szerokości ekranu,
+można wpływać na rozmiar (with, high)
+---------------------------------------------
+google: html starter (template) basic
+---------------------------------------------
+
+sprawdzanie, które przeglądarki obsługują dany element CSS:
+https://caniuse.com/
+
+-----------------------------------------------
+

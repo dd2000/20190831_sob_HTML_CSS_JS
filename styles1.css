@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+
+h1 {
+	z-index: 50;
+}
+
+div {
+	color: white;
+}
+
+.blue {
+	display: inline-block;
+	background-color: blue;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+	padding-left: 20px;
+	width: calc(100% - 20px);
+	width
+	border: 7px dotted red;
+}
+.green {
+	display: inline;
+	background-color: green;
+}
